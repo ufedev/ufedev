@@ -1,15 +1,9 @@
 
-#### Castellano 
-
-
-- 👋 Hola soy Federico
-- 👀 Programador Jr web 
-- 😄 actualmente sigo estudiando. 
-- ☝️ Podes ver algunos proyectos listos y no tan listos en este perfil de GITHUB
-- 📫 por el momento solo el correo para contacto mafcakedeveloper@gmail.com
-
-#### English
 
 - 👋 Hi im Federico.
-- 😄 Im a Jr programmer
+- ☝️ You can see some projects in this profile
+
+
+
+- 😄 Im a Web Jr Programmer
 - 📫 you can contact me with mafcakedeveloper@gmail.com
