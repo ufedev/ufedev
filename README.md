@@ -5,5 +5,5 @@
 
 
 
-- 😄 Im a Web Jr Programmer
+- 😄 Im a Jr Web Programmer
 - 📫 you can contact me with mafcakedeveloper@gmail.com
