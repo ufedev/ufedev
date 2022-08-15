@@ -21,7 +21,7 @@
 Soy FullStack web Developer.
 * :earth_americas: Trabajo Freelancer
 * :telescope: En constante aprendizaje de Frameworks y mejores practicas.
-* :mailbox_with_mail: Me podes encontrar  [![Linkedin Badge](https://img.shields.io/badge/Malfasi-Federico-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/federico-malfasi-5624bb174)
+* :mailbox_with_mail: Me podes encontrar  [![Linkedin Badge](https://img.shields.io/badge/Malfasi-Federico-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-malfasi-5624bb174)
 
 ---
 ### :hammer_and_wrench: Lenguajes
